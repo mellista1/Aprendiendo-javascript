@@ -3,7 +3,7 @@ Clase 16 - Variables
 Vídeo: https://youtu.be/1glVfFxj8a4?t=3049
 */
 
-// var
+// var -> ESTA EN DESUSO.
 
 var helloWorld = "¡Hola, JavaScript!"
 console.log(helloWorld)
